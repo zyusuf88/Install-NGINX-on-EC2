@@ -35,11 +35,11 @@ cd apps
 echo created apps folder
 
 echo clone the app folder
-git clone https://github.com/zyusuf88/tech258-sparta-test-app.git
+git clone https://github.com/zyusuf88/test-app.git
 echo cloning done 
 
 echo cd into app folder
-cd ~/tech258-sparta-test-app/app
+cd ~/test-app/app
 echo done!
 
 echo install npm

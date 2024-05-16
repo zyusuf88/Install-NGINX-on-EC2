@@ -84,12 +84,12 @@ mkdir apps
 cd apps
 
 echo clone the app folder
-sudo git clone https://github.com/zyusuf88/tech258-test-app.git
+sudo git clone https://github.com/zyusuf88/test-app.git
 echo got app folder
 
 
 echo going to app folder
-cd ~/apps/tech258-sparta-test-app/app
+cd ~/apps/test-app-sparta-test-app/app
 echo in app folder
 
 echo set db_host env var
