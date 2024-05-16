@@ -89,7 +89,7 @@ echo got app folder
 
 
 echo going to app folder
-cd ~/apps/test-app-sparta-test-app/app
+cd ~/apps/test-app/app
 echo in app folder
 
 echo set db_host env var
