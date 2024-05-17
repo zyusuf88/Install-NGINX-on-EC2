@@ -39,7 +39,7 @@ git clone https://github.com/zyusuf88/test-app.git
 echo cloning done 
 
 echo cd into app folder
-cd ~/test-app/app
+cd ~/apps/test-app/app
 echo done!
 
 echo install npm
