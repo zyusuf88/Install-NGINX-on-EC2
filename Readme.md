@@ -123,4 +123,3 @@ One of the main reasons we need EC2 instances is because they offer **scalabilit
 
 <br>
 
-Click [here](https://github.com/zyusuf88/EC2-nginx-deployment) for part 2 
